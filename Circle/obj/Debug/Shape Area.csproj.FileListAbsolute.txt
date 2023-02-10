@@ -1,0 +1,13 @@
+E:\Capita\Week 2\Circle\bin\Debug\Circle.exe.config
+E:\Capita\Week 2\Circle\bin\Debug\Circle.exe
+E:\Capita\Week 2\Circle\bin\Debug\Circle.pdb
+E:\Capita\Week 2\Circle\obj\Debug\Shape Area.csproj.AssemblyReference.cache
+E:\Capita\Week 2\Circle\obj\Debug\Shape Area.csproj.SuggestedBindingRedirects.cache
+E:\Capita\Week 2\Circle\obj\Debug\Circle.Circle.resources
+E:\Capita\Week 2\Circle\obj\Debug\Circle.Properties.Resources.resources
+E:\Capita\Week 2\Circle\obj\Debug\Circle.Rectangle.resources
+E:\Capita\Week 2\Circle\obj\Debug\Shape Area.csproj.GenerateResource.cache
+E:\Capita\Week 2\Circle\obj\Debug\Shape Area.csproj.CoreCompileInputs.cache
+E:\Capita\Week 2\Circle\obj\Debug\Circle.exe
+E:\Capita\Week 2\Circle\obj\Debug\Circle.pdb
+E:\Capita\Week 2\Circle\obj\Debug\Circle.Triangle.resources
