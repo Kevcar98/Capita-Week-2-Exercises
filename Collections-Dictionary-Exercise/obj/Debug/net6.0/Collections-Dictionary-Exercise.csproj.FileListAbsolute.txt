@@ -1,0 +1,15 @@
+E:\Capita\Week 2\Collections-Dictionary-Exercise\bin\Debug\net6.0\Collections-Dictionary-Exercise.exe
+E:\Capita\Week 2\Collections-Dictionary-Exercise\bin\Debug\net6.0\Collections-Dictionary-Exercise.deps.json
+E:\Capita\Week 2\Collections-Dictionary-Exercise\bin\Debug\net6.0\Collections-Dictionary-Exercise.runtimeconfig.json
+E:\Capita\Week 2\Collections-Dictionary-Exercise\bin\Debug\net6.0\Collections-Dictionary-Exercise.dll
+E:\Capita\Week 2\Collections-Dictionary-Exercise\bin\Debug\net6.0\Collections-Dictionary-Exercise.pdb
+E:\Capita\Week 2\Collections-Dictionary-Exercise\obj\Debug\net6.0\Collections-Dictionary-Exercise.csproj.AssemblyReference.cache
+E:\Capita\Week 2\Collections-Dictionary-Exercise\obj\Debug\net6.0\Collections-Dictionary-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capita\Week 2\Collections-Dictionary-Exercise\obj\Debug\net6.0\Collections-Dictionary-Exercise.AssemblyInfoInputs.cache
+E:\Capita\Week 2\Collections-Dictionary-Exercise\obj\Debug\net6.0\Collections-Dictionary-Exercise.AssemblyInfo.cs
+E:\Capita\Week 2\Collections-Dictionary-Exercise\obj\Debug\net6.0\Collections-Dictionary-Exercise.csproj.CoreCompileInputs.cache
+E:\Capita\Week 2\Collections-Dictionary-Exercise\obj\Debug\net6.0\Collections-Dictionary-Exercise.dll
+E:\Capita\Week 2\Collections-Dictionary-Exercise\obj\Debug\net6.0\refint\Collections-Dictionary-Exercise.dll
+E:\Capita\Week 2\Collections-Dictionary-Exercise\obj\Debug\net6.0\Collections-Dictionary-Exercise.pdb
+E:\Capita\Week 2\Collections-Dictionary-Exercise\obj\Debug\net6.0\Collections-Dictionary-Exercise.genruntimeconfig.cache
+E:\Capita\Week 2\Collections-Dictionary-Exercise\obj\Debug\net6.0\ref\Collections-Dictionary-Exercise.dll
